@@ -1,5 +1,6 @@
 
-|-------------------|----------------------------------|
+|                   |                                  |      
+|:------------------|:---------------------------------|
 |student            |Sven Noteboom                     |
 |opleidingsonderdeel|New Media Design and Development 1|
 |Afstudeerrichting  |Multimediaproductie(MMP)          |
