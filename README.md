@@ -1,7 +1,11 @@
-Sven Noteboom
-88308
-proDEV
-2016-2017
+
+|-------------------|----------------------------------|
+|student            |Sven Noteboom                     |
+|opleidingsonderdeel|New Media Design and Development 1|
+|Afstudeerrichting  |Multimediaproductie(MMP)          |
+|Specialisatie      |ProDEV                            |
+|Academiejaar       |2016-2017                         |
+
 
 
 
