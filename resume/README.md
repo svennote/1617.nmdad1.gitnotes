@@ -19,16 +19,16 @@ Personalia
 Opleiding(en)
 =============
 
-secundair diploma : multimedia Viso Mariakerke 2013-2014
-7 Se-n-Se : webontwikkelaar/multimediaoperator 2014-2015
-Extra opleiding : getuigschrift bedrijfsbeheer                            
+* secundair diploma : multimedia Viso Mariakerke 2013-2014
+* 7 Se-n-Se : webontwikkelaar/multimediaoperator 2014-2015
+* Extra opleiding : getuigschrift bedrijfsbeheer                            
 
 Werkervaring(en)
 ================
 
-Vakantiejob : Supra Bazar Lovendegem 2010-heden
-STAGE 20 april 2015 - 5 juni 2015 (7weken) bij In4Matic
-	- Aanpassen website I4m.be
+* Vakantiejob : Supra Bazar Lovendegem 2010-heden
+* STAGE 20 april 2015 - 5 juni 2015 (7weken) bij In4Matic
+*	- Aanpassen website I4m.be
 
 Cursussen en workshops
 ======================
